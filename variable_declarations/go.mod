@@ -1,3 +1,3 @@
-module github.com/phil/variable_declarations
+module github.com/SuperNolvas/Golang_AWS
 
 go 1.22.0
